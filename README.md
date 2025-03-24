@@ -1,3 +1,6 @@
-# ImageCompare
-Desarrollada en Jetpack Compose que permite comparar dos imágenes mediante un deslizador interactivo, facilitando la visualización de cambios entre una imagen "antes" y "después".
-![Uploading Screenshot 2025-02-12 at 8.27.31 p.m..png…]()
+
+<div align="center">
+  <img width="600" height="300" src="/assest/screenshot.png" alt="ss">
+  <h1><b>ImageCompare</b></h1>
+  <p>Developed in Jetpack Compose that allows you to compare two images using an interactive slider, making it easy to visualize changes between a “before” and “after” image.<br>
+</div>
